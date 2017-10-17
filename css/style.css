@@ -111,3 +111,7 @@
 .project-detail .label {
 	font-size: 13px;
 }
+
+.project-detail p {
+	margin-top:5px;
+}
