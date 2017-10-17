@@ -105,9 +105,9 @@
 	box-shadow: 0px 0px 5px #565656;
 		}
 
-.project-detail h3 {
+.project-detail h4 {
 	text-decoration: underline;
 }		
 .project-detail .label {
-	font-size: 15px;
+	font-size: 13px;
 }
